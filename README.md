@@ -1,4 +1,8 @@
-<img src="topWave.png" style='width:100%' /> 
+<p align="center">
+  <img src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=900&auto=format&fit=crop&q=60" 
+       style="width: 100%; height: 300px; object-fit: cover; object-position: center;" 
+       alt="Cropped Code Banner" />
+</p>
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" /> My name is Waleed Mehrez
 ======================================================================================================================================
