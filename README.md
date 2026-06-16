@@ -64,5 +64,7 @@ Beyond the client side, I have a strong understanding of cloud ecosystems, AWS c
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
   </a>
 </p>
-<img src="bottomWave.png" /> 
+<p align="center">
+  <sub>💻 Constantly evolving, learning new technologies, and transforming ideas into clean code. 🌟</sub>
+</p>
 
