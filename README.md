@@ -4,9 +4,9 @@
        alt="Cropped Code Banner" />
 </p>
 
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" /> My name is Waleed Mehrez
-======================================================================================================================================
-
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" /> My name is Waleed Mehrez
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Angular+%7C+RxJS;AWS+%26+Serverless+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
