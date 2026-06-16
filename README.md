@@ -1,11 +1,12 @@
-
-<img src="topWave.png" width="25" /> 
+<img src="topWave.png" style='width:100%' /> 
 
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25" /> My name is Waleed Mehrez
 ======================================================================================================================================
 
-Frontend Developer | Angular | RxJS | AWS & Serverless
-------------------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Angular+%7C+RxJS;AWS+%26+Serverless+Cloud+Enthusiast" alt="Typing SVG" />
+</p>
+
 
 I am a Frontend Developer specializing in building scalable web applications using HTML, CSS, JavaScript, and Angular. Deeply experienced with RxJS and reactive programming, I focus on writing clean, modular code and designing advanced frontend architectures.
 
@@ -59,5 +60,5 @@ Beyond the client side, I have a strong understanding of cloud ecosystems, AWS c
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
   </a>
 </p>
-<img src="bottomWave.png" width="25" /> 
+<img src="bottomWave.png" /> 
 
