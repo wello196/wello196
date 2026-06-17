@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=900&auto=format&fit=crop&q=60" 
+  <img src="https://miro.medium.com/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" 
        style="width: 100%; height: 300px; object-fit: cover; object-position: center;" 
        alt="Cropped Code Banner" />
 </p>
